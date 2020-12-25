@@ -1,0 +1,11 @@
+{
+  "name": "packagejson",
+  "version": "1.0.0",
+  "description": "Managing Packages with Npm - How to Use package.json, the Core of Any Node.js Project or npm Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ridhan Fadhilah",
+  "license": "ISC"
+}
