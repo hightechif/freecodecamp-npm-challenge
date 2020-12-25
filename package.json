@@ -10,6 +10,6 @@
   "keywords": [ "freecodecamp", "javascript", "node.js" ],
   "license": "MIT",
   "dependencies": {
-    "moment": "2.14.0"
+    "moment": "~2.10.2"
   }
 }
