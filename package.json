@@ -8,5 +8,8 @@
   },
   "author": "Ridhan Fadhilah",
   "keywords": [ "freecodecamp", "javascript", "node.js" ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "2.14.0"
+  }
 }
