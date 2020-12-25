@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ridhan Fadhilah",
-  "keywords": [ "freeCodeCamp", "descriptive", "related", "words" ],
+  "keywords": [ "freecodecamp", "descriptive", "related", "words" ],
   "license": "MIT"
 }
